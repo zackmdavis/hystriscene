@@ -1,0 +1,3 @@
+# Hystriscene
+
+A chat server, presumably for porcupines. The name is a *portmanteau*, from [*Hy*](http://docs.hylang.org/en/latest/) (a Lisp dialect which compiles to Python's abstract syntax tree, in which the Hystriscene server is written), *str* (the name of Python's (Unicode) string type), *I* (the pronoun by which participants in a chat refer to themselves), and *scene* (in [the sense of](https://en.wiktionary.org/wiki/scene#Noun) "a social environment consisting of an informal, vague group of people with a uniting interest; their sphere of activity; a subculture"); and *hystricine*, [which means](https://en.wiktionary.org/wiki/hystricine) "like or pertaining to porcupines".
